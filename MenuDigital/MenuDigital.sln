@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuDigital", "MenuDigital\MenuDigital.csproj", "{68F38A66-730F-4D70-AACA-887F974B7B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuDigital.Repository", "MenuDigital.Repository\MenuDigital.Repository.csproj", "{4ADC66DD-88BE-4873-AE53-3D91E0EA76CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuDigital.Domain", "MenuDigital.Domain\MenuDigital.Domain.csproj", "{86D045FA-FC77-46C7-92A3-42884361C2DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F38A66-730F-4D70-AACA-887F974B7B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F38A66-730F-4D70-AACA-887F974B7B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F38A66-730F-4D70-AACA-887F974B7B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F38A66-730F-4D70-AACA-887F974B7B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADC66DD-88BE-4873-AE53-3D91E0EA76CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADC66DD-88BE-4873-AE53-3D91E0EA76CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADC66DD-88BE-4873-AE53-3D91E0EA76CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADC66DD-88BE-4873-AE53-3D91E0EA76CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D045FA-FC77-46C7-92A3-42884361C2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D045FA-FC77-46C7-92A3-42884361C2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D045FA-FC77-46C7-92A3-42884361C2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D045FA-FC77-46C7-92A3-42884361C2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

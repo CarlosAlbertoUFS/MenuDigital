@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B2013A05-97B3-43CD-8863-2FEF414EA392}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MenuDigital/Resources/values/strings.xml">
+    <Files>
+      <File FileName="MenuDigital/Resources/values/strings.xml" Line="1" Column="1" />
+      <File FileName="MenuDigital/Resources/values/styles.xml" Line="5" Column="54" />
+      <File FileName="MenuDigital/Resources/values/colors.xml" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MenuDigital" expanded="True" selected="True">
+            <Node name="MenuDigital" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MenuDigital AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.nougat_7_1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
